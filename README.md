@@ -4,9 +4,9 @@
 <b>Natural/Outdoor Urdu Dataset for Outdoor Text Detection and Recognition</b>
 
 <p>
-  <img src="SampleImages/21408.jpg" width=160>
- <img src="SampleImages/13291.jpg" width=160>
- <img src="SampleImages/38233.jpg" width=160>
+  <img src="SampleImages/_UrTextV1_IMG_2427.jpg" width=160>
+ <img src="SampleImages/_UrTextV1_IMG_2377.jpg" width=160>
+ <img src="SampleImages/_UrTextV1_IMG_2381.jpg" width=160>
 <img src="SampleImages/10874.jpg" width=160>
   <img src="SampleImages/25645.jpg" width=160>
 
